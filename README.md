@@ -16,8 +16,8 @@ The application is a landing page of a fictional restaurant.
 # Layout Mobile
 
 <p>
-  <img src="https://github.com/EwertonSolitto/GiordanoFettuccine/blob/main/assets/readme/mobileImage1.jpg" height="946"/>
-  <img src="https://github.com/EwertonSolitto/GiordanoFettuccine/blob/main/assets/readme/mobileImage2.jpg" height="946"/>
+  <img src="https://github.com/EwertonSolitto/GiordanoFettuccine/blob/main/assets/readme/mobileImage1.jpg" height="775"/>
+  <img src="https://github.com/EwertonSolitto/GiordanoFettuccine/blob/main/assets/readme/mobileImage2.jpg" height="775"/>
 </p>
 
 # Technologies
