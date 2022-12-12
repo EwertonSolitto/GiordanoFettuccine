@@ -1,19 +1,41 @@
-# GiordanoFettuccine - NLW Return
+# GiordanoFettuccine
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/EwertonSolitto/GiordanoFettuccine/blob/main/LICENSE)
 
-Projeto feito no evento da NLW Return da Rocketseat, com o objetivo de fazer uma landing page customizável e com layout Desktop e Mobile.
+# About
 
-<hr/>
+https://ewertonsolitto.github.io/GiordanoFettuccine/
 
-## Tecnologias usadas:
+GiordanoFettuccine is a Front End application built on the **NLW RETURN** edition, organized event by [Rocketseat](https://app.rocketseat.com.br).
 
-• HTML
+The application is a landing page of a fictional restaurant.
 
-• CSS
+# Layout Web
 
-• JAVASCRIPT
+<img src="https://github.com/EwertonSolitto/GiordanoFettuccine/blob/main/assets/readme/webImage.png" />
 
-<hr/>
+# Layout Mobile
 
-#### <a href="https://www.figma.com/community/file/1102912263666619803">Inspiração</a>
+<p>
+  <img src="https://github.com/EwertonSolitto/GiordanoFettuccine/blob/main/assets/readme/mobileImage1.jpg" height="946"/>
+  <img src="https://github.com/EwertonSolitto/GiordanoFettuccine/blob/main/assets/readme/mobileImage2.jpg" height="946"/>
+</p>
 
-#### <a href="https://ewertonsolitto.github.io/GiordanoFettuccine/">Projeto final</a>
+# Technologies
+
+ - HTML
+
+ - CSS
+
+ - JAVASCRIPT
+
+# How to run
+
+```bash
+
+# Clone repository
+git clone https://github.com/EwertonSolitto/GiordanoFettuccine.git
+
+# Open file
+index.html
+
+```
