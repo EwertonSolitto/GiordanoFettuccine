@@ -28,7 +28,7 @@ The application is a landing page of a fictional restaurant.
 
  - JAVASCRIPT
 
-# How to run
+# Download
 
 ```bash
 
