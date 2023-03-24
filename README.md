@@ -7,7 +7,7 @@ https://ewertonsolitto.github.io/GiordanoFettuccine/
 
 GiordanoFettuccine is a Front End application built on the **NLW RETURN** edition, organized event by [Rocketseat](https://app.rocketseat.com.br).
 
-The application is a landing page of a fictional restaurant.
+This application is a landing page of a fictional restaurant.
 
 # Layout Web
 
@@ -28,7 +28,7 @@ The application is a landing page of a fictional restaurant.
 
  - JAVASCRIPT
 
-# How to run
+# Installation
 
 ```bash
 
