@@ -308,6 +308,10 @@ body.menu-expanded .menu {
   gap: 3.2rem;
 }
 
+.social-links span {
+  display: none;
+}
+
 body.menu-expanded .logo,
 body.menu-expanded .close-menu {
   position: relative;
@@ -490,10 +494,6 @@ footer p {
 
 footer .social-links {
   justify-content: flex-start;
-}
-
-footer .social-links span {
-  display: none;
 }
 
 /* BACK TO TOP*/
