@@ -218,6 +218,8 @@ nav .close-menu {
 
 nav .social-links span {
   display: none;
+
+  color: white;
 }
 
 /* MENU-EXPANDED */
