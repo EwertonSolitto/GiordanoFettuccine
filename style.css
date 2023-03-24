@@ -217,12 +217,6 @@ nav .close-menu {
   position: fixed;
 }
 
-nav .social-links span {
-  display: none;
-
-  color: white;
-}
-
 /* MENU-EXPANDED */
 
 body.menu-expanded {
@@ -309,10 +303,6 @@ body.menu-expanded .menu {
   align-items: center;
   justify-content: center;
   gap: 3.2rem;
-}
-
-.social-links span {
-  display: none;
 }
 
 body.menu-expanded .logo,
@@ -517,11 +507,6 @@ footer .social-links {
   opacity: 1;
   visibility: visible;
   transform: translateY(0);
-}
-
-#backToTopButton span {
-  display: none;
-  color: white
 }
 
 /* REPONSIVE */
