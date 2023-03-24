@@ -453,7 +453,7 @@ body.menu-expanded .close-menu path {
   padding-bottom: 3rem;
 }
 
-#contact path {
+#contact #address path {
   stroke: var(--primary-color);
 }
 
