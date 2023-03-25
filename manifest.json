@@ -1,14 +1,16 @@
 {
+  "id": "/?source=pwa",
   "name": "GiordannoFettuchine",
   "short_name": "GiordannoFettuchine",
   "description": "Giordano Fettuccine é um restaurante Italiano feito para os amantes de macarrões, entre em contato conosco agora mesmo e faça seu pedido.",
-  "start_url": "./",
+  "scope": "/",
+  "start_url": "/?source=pwa",
   "display": "standalone",
   "theme_color": "#851600",
   "background_color": "#F6F8F8",
   "icons": {
     "src": "/assets/cliente.png",
-    "sizes": "42x42",
+    "sizes": "512x512",
     "type": "image/png"
   }
 }
