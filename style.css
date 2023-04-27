@@ -13,7 +13,7 @@
   --brand-light-3: hsl(calc(var(--hue) - 22), 100%, 97%);
   --primary-color: hsl(var(--hue), 100%, 26%);
   --headline: hsl(210, 11%, 15%);
-  --paragraph: hsl(210, 9%, 31%);
+  --paragraph: hsl(216, 8%, 25%);
   --bg-light: hsl(180, 14%, 97%);
   --brand-dark: hsl(var(--hue), 100%, 14%);
 
