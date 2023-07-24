@@ -1,7 +1,7 @@
-# GiordanoFettuccine
+# GiordanoFettuccine 🍝
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/EwertonSolitto/GiordanoFettuccine/blob/main/LICENSE)
 
-# About
+# About 📝
 
 https://ewertonsolitto.github.io/GiordanoFettuccine/
 
@@ -9,18 +9,18 @@ GiordanoFettuccine is a Front End application built on the **NLW RETURN** editio
 
 This application is a landing page of a fictional restaurant.
 
-# Layout Web
+# Layout Web 🖥️
 
 <img src="https://github.com/EwertonSolitto/GiordanoFettuccine/blob/main/assets/readme/webImage.png" />
 
-# Layout Mobile
+# Layout Mobile 📱
 
 <p>
   <img src="https://github.com/EwertonSolitto/GiordanoFettuccine/blob/main/assets/readme/mobileImage1.jpg" height="775"/>
   <img src="https://github.com/EwertonSolitto/GiordanoFettuccine/blob/main/assets/readme/mobileImage2.jpg" height="775"/>
 </p>
 
-# Technologies
+# Technologies ⚡
 
  - HTML
 
@@ -28,7 +28,7 @@ This application is a landing page of a fictional restaurant.
 
  - JAVASCRIPT
 
-# Installation
+# Installation 🔧
 
 ```bash
 
